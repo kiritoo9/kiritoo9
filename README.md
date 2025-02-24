@@ -1,13 +1,19 @@
-###### 🚀 Software Developer | Skilled in building high-performance web applications and REST APIs 🖥️. Known for solving complex challenges with clean, efficient code and well-designed algorithms. I focus on creating scalable, maintainable solutions that add real value. With an eye for simplicity and quality, I deliver dependable, future-ready products that stand out.
+# 👋 Hello, I'm Kiritoo9
 
-### For backend development, I primarily use 
+🚀 **Software Developer | Tech Enthusiast | Problem Solver**  
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white"/>
+I'm passionate about **clean code, efficient systems, and building solutions that matter**. I enjoy working with **Go, Python, Rust, and TypeScript**, also exploring **architecture, AI, and database systems**.  
 
-### For frontend development, I primarily use
+## 🔧 Technologies & Tools  
+- 💻 **Languages**: Go, Python, TypeScript, PHP, Rust
+- 🏗️ **Backend**: Laravel, Node.js, Go, Python
+- 🎨 **Frontend**: React, Next.js, Angular
+- 📱 **Mobile**: React Native, Flutter, Ionic 
+- 📊 **Database**: SQL, PostgreSQL, Faiss
+- 🌍 **Other**: Docker, Clean Architecture, NLP, Fuzzy Search  
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-### For mobile development, I primarily use 
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=3880FF"/>
+## 📌 What I'm Working On  
+- 🏗 Engineering intelligent report generation systems  
+- 🔍 Exploring AI-driven search and fuzzy matching techniques  
+- ⚡ Optimizing application performance and security  
+- ⏳ Designing robust agents, schedulers, and cron jobs for seamless ETL workflows
